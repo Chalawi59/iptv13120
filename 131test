@@ -1,6 +1,3 @@
-21-1-2020
-https://raw.githubusercontent.com/Chalawi59/IPTV23/master/TEST23
-
 #EXTM3U
 #EXTINF:-1 tvg-id="Al Quraan" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" group-title="Religious",Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
